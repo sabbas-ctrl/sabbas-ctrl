@@ -1,97 +1,108 @@
-<h1 align="center">👋 Welcome to Sabbas Ahmad's GitHub</h1>
 
+<!-- Portfolio-like GitHub Profile README | Sabbas Ahmad -->
+
+<div align="center">
+  <img src="./SA.png" alt="Sabbas Ahmad - Developer & Builder" width="100%">
+</div>
+
+<h1 align="center">👋 Hey there, I'm Sabbas Ahmad</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/BSCS-Air%20University-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stack-Web%20%7C%20App%20%7C%20Backend%20Dev-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Available%20For-Freelance%20%7C%20Collab-green?style=flat-square" />
+  <strong>A software engineer, system builder & automation enthusiast</strong><br>
+  Turning ideas into scalable systems | Entrepreneurial thinker | Always shipping 🚀
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-I'm **Sabbas Ahmad**, a forward-thinking **Computer Science student** from **Air University Islamabad**, deeply passionate about **scalable development**, **intelligent systems**, and **purpose-driven design**.
-
-I’m actively working on real-world projects that:
-- Combine design with **development efficiency**
-- Solve Pakistani societal pain points through **clever software systems**
-- Emphasize **clean code, modularity**, and long-term maintainability
-
-🔭 **Currently Building**:  
-A full-fledged **CCTV-based Presence Tracking System** using AI modules, Re-ID pipelines, and a zone-mapped interface.
-
-💼 **Past Highlights**:
-- Developed a school comparison platform for Texas institutions
-- Built a dynamic food ordering app with day-wise menus
-- Created a robust business scraping tool integrating Google, Facebook & Insta
+## 🧭 My Focus Areas
+- 🏢 **Building digital tools for businesses** in Pakistan and beyond
+- 🧠 AI-enhanced automations with reliability and performance in mind
+- 🖥️ Custom software across **web, desktop, batch, scraping, and mobile**
+- 🧾 Workflow digitization, presence systems, intelligent dashboards
 
 ---
 
-### 🧠 My Tech Stack
+## 🚀 Featured Public Projects (Auto-Pinned)
+<!-- Replace these repo names with your real public repos 
+[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=sabbas-ctrl&repo=business-scraper&theme=radical)](https://github.com/sabbas-ctrl/business-scraper)
+[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=sabbas-ctrl&repo=fyp-presence-system&theme=radical)](https://github.com/sabbas-ctrl/fyp-presence-system)
+-->
+---
 
-#### 💻 Frontend
-- HTML5, CSS3, JavaScript
-- React.js, Vite
-- Bootstrap, Tailwind CSS
+## 🛠️ Tools I Use Daily
 
-#### 🛠️ Backend
-- Node.js, Express.js
-- Python (Flask / FastAPI)
-- MongoDB, MySQL
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,py,js,bash,dotnet,flutter,react,mongodb,firebase,mysql,opencv,github,git&theme=dark" />
+</div>
 
-#### 🤖 AI & Tools
-- OpenCV, YOLOv8, DeepSort, DeepFace
-- Re-Identification Pipelines
-- Git, VS Code, Postman, Colab
+- ⚙️ **Tech & Frameworks**: YOLOv8 · OpenCV · DeepSort · ReID · XAF · RAG · WinForms · MERN · Blazor  
+- 🔍 **Scripting**: Python · PowerShell · Batch  
+- 🧩 **Systems**: Scrapers · Surveillance AI · Dashboards · Custom APIs · Automation bots  
 
 ---
 
-### 📁 Featured Projects
+## 📊 My Developer Footprint
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **Deenovation** | Tech+Deen event management suite & interactive engagement platform | React.js, Firebase, Node.js |
-| **HomeCook** | Smart food-ordering system with dynamic menus & delivery logic | React.js, Context API, LocalStorage |
-| **Presence Tracker (FYP)** | Multi-camera surveillance system with attendance API, anomaly detection & layered re-ID | YOLOv8, DeepFace, Flask, SQLite |
-| **Local Business Scraper** | Production-grade scraper for local businesses on Google & Facebook | Python, BeautifulSoup, Selenium |
-| **School Comparison Portal** | Texas-based education portal with portfolio pages & admin-driven backend | React, Express, MongoDB |
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sabbas-ctrl&theme=highcontrast&hide_border=true"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbas-ctrl&layout=compact&theme=highcontrast"/>
+</div>
 
 ---
 
-### 🌐 Connect With Me
+## 🧠 Developer Identity
 
-- 🌎 Portfolio: [Sabbas Ahmad Portfolio](https://your-deployed-link.netlify.app)
-- 📫 Email: `sabbas.ahmad@airuniversity.edu.pk`
-- 💼 LinkedIn: [linkedin.com/in/sabbas-ahmad](https://linkedin.com/in/sabbas-ahmad)
-- 📷 Instagram: [@sabbas.ctrl](https://instagram.com/sabbas.ctrl)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabbas-ctrl&show_icons=true&theme=react" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbas-ctrl&layout=compact&theme=react" />
-</p>
-
----
-
-### ⚡ A Personal Note
-
-> “I'm not just coding for screens—I'm coding for **impact**. Every line I write aims to solve a problem, streamline a process, or empower people.”
-
-If you're a dev looking for inspiration or a collaborator seeking precision and professionalism — **you’re in the right place**.
+```yaml
+name: Sabbas Ahmad
+title: Software Engineer | Builder | System Designer
+company: Open to Opportunities & Collaborations
+personality:
+  - fast-learner
+  - solution-oriented
+  - entrepreneurial-mindset
+  - sharp & scalable thinking
+interests:
+  - Tech-for-impact products
+  - Digitization tools for institutions
+  - Software with real-world effect
+```
 
 ---
 
-### 🧩 Clone This Style?
+## 💬 Business Tagline
 
-This README is designed as a **starter portfolio** for developers who want to:
-- Showcase their **work professionally**
-- Align their **GitHub profile with their personal portfolio**
-- Use it as a **client-facing resume**
-
-Just fork, personalize, and elevate your developer branding.
+> ❝ I build software that saves hours, not just clicks. ❞  
+> <p align="right">— Sabbas Ahmad</p>
 
 ---
 
+## 📞 Let's Work Together
+
+<div align="center">
+  <a href="mailto:sabbas@example.com">
+    <img src="https://img.shields.io/badge/email-Contact_Me-informational?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:+923001234567">
+    <img src="https://img.shields.io/badge/Call_Now-%2B92_300_1234567-success?style=for-the-badge&logo=phone&logoColor=white" />
+  </a>
+  <a href="https://wa.me/923001234567">
+    <img src="https://img.shields.io/badge/WhatsApp-Let's_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 📎 For Businesses, Employers, or Collaborators
+
+- 💡 I speak your language — ROI, time-saving, impact.
+- 🧰 I build tools with maintainability, modularity, and scale in mind.
+- 🔄 Let’s digitize your workflow, upgrade your system, or launch your next product.
+
+> DM or email to explore custom solutions or collaborations.
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <sub>© Sabbas Ahmad | Custom README crafted for impact</sub>
+</div>
