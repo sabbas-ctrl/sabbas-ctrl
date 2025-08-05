@@ -1,192 +1,97 @@
-# 👋 Hi, I'm Sabbas Ahmad
+<h1 align="center">👋 Welcome to Sabbas Ahmad's GitHub</h1>
 
-🎓 Computer Science Student | 💻 Developer | 🧠 System Thinker  
-🔭 Passionate about building scalable, purposeful software with real-world impact.
-
-I believe in **engineering with intent** — blending software craftsmanship, system architecture, and automation to solve meaningful problems.
-
----
-
-## 📊 GitHub Stats
-
-![Sabbas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabbasahmad&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbasahmad&layout=compact&theme=tokyonight)
-
-*These stats showcase my recent activity and my top programming languages.*
+<p align="center">
+  <img src="https://img.shields.io/badge/BSCS-Air%20University-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-Web%20%7C%20App%20%7C%20Backend%20Dev-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Available%20For-Freelance%20%7C%20Collab-green?style=flat-square" />
+</p>
 
 ---
 
-## 🚀 Focus Areas
+### 👨‍💻 About Me
 
-- 🧠 Building an AI-assisted **CCTV Presence Tracking System** → Face detection, tracking, recognition & multi-camera log search  
-  → Built for layered zones, post-recording analysis & admin dashboards  
-- 🛠 Developing reusable systems for business automation:
-  - **Food Order System (HomeCook)**
-  - **Local Business Data Scraper**
-  - **School Comparison Platform**
-- 🌱 Currently diving deeper into:
-  - Modular full-stack architectures  
-  - Real-world machine vision  
-  - Batch automation and scripting
+I'm **Sabbas Ahmad**, a forward-thinking **Computer Science student** from **Air University Islamabad**, deeply passionate about **scalable development**, **intelligent systems**, and **purpose-driven design**.
 
----
+I’m actively working on real-world projects that:
+- Combine design with **development efficiency**
+- Solve Pakistani societal pain points through **clever software systems**
+- Emphasize **clean code, modularity**, and long-term maintainability
 
-## 🛠️ Tech Stack
+🔭 **Currently Building**:  
+A full-fledged **CCTV-based Presence Tracking System** using AI modules, Re-ID pipelines, and a zone-mapped interface.
 
-| Frontend       | Backend           | Database          | DevOps & Tools     | AI / Data              |
-|----------------|-------------------|-------------------|--------------------|------------------------|
-| React.js       | Node.js, .NET     | MySQL, MongoDB    | Git, GitHub Actions| YOLOv8, DeepSort       |
-| Tailwind CSS   | Express.js        | PostgreSQL        | Docker (basic)     | DeepFace, ReID         |
-| HTML, CSS, JS  | Django (basic)    | SQLite, Firebase  | Bash, Batch Scripts| OpenCV, Python (Pandas)|
+💼 **Past Highlights**:
+- Developed a school comparison platform for Texas institutions
+- Built a dynamic food ordering app with day-wise menus
+- Created a robust business scraping tool integrating Google, Facebook & Insta
 
 ---
 
-## 📂 Featured Projects
+### 🧠 My Tech Stack
 
-### 🎯 [AI-Based CCTV Presence Tracker](https://github.com/sabbasahmad/cctv-presence-tracker)
-> **Tech:** YOLOv8, DeepSort, DeepFace, Python, SQLite, React  
-- **Engineers a system to** re-identify individuals across cameras  
-- Implements zone-wise presence logging and intelligent video uploads  
-- Includes an admin dashboard with a feedback loop and alerts  
+#### 💻 Frontend
+- HTML5, CSS3, JavaScript
+- React.js, Vite
+- Bootstrap, Tailwind CSS
 
----
+#### 🛠️ Backend
+- Node.js, Express.js
+- Python (Flask / FastAPI)
+- MongoDB, MySQL
 
-### 🍱 [HomeCook - Food Ordering App](https://github.com/sabbasahmad/homecook-app)
-> **Tech:** ReactJS, Tailwind, Firebase  
-- **Develops a daily menu system** with dynamic pricing and quantity scaling  
-- Validates delivery locations and provides a seamless user experience  
-- Features an admin-friendly interface for micro-vendors  
-
----
-
-### 🏫 [School Comparison Platform](https://github.com/sabbasahmad/school-compare)
-> **Tech:** Node.js, EJS, MongoDB  
-- **Builds a structured, admin-controlled** school listing system  
-- Includes features like sponsored slots, visibility control, and robust filters  
-- Designed for clarity, monetization, and rapid content listing  
+#### 🤖 AI & Tools
+- OpenCV, YOLOv8, DeepSort, DeepFace
+- Re-Identification Pipelines
+- Git, VS Code, Postman, Colab
 
 ---
 
-### 🕵️ [Local Business Scraper](https://github.com/sabbasahmad/local-biz-scraper)
-> **Tech:** Python, Selenium, BeautifulSoup  
-- **Automates the scraping of businesses** from Google, Maps, Facebook, and Instagram  
-- Handles deduplication, missing data, and categorization with intelligent logic  
-- Exports data to Excel, making it ideal for marketers and lead generation teams  
+### 📁 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **Deenovation** | Tech+Deen event management suite & interactive engagement platform | React.js, Firebase, Node.js |
+| **HomeCook** | Smart food-ordering system with dynamic menus & delivery logic | React.js, Context API, LocalStorage |
+| **Presence Tracker (FYP)** | Multi-camera surveillance system with attendance API, anomaly detection & layered re-ID | YOLOv8, DeepFace, Flask, SQLite |
+| **Local Business Scraper** | Production-grade scraper for local businesses on Google & Facebook | Python, BeautifulSoup, Selenium |
+| **School Comparison Portal** | Texas-based education portal with portfolio pages & admin-driven backend | React, Express, MongoDB |
 
 ---
 
-## 🎓 Academic Highlights
+### 🌐 Connect With Me
 
-- 🎓 6th Semester, BSCS  
-- 📌 Final Year Project: Designing a scalable, multi-camera, AI-assisted presence logging system with **clean system design and maintainable code** ---
-
-## 🏆 Certifications
-
-- ✅ Microsoft Certified: Azure Fundamentals  
-- ✅ Completed system architecture bootcamps  
-- 🥇 Recognized for building scalable, low-dependency software  
+- 🌎 Portfolio: [Sabbas Ahmad Portfolio](https://your-deployed-link.netlify.app)
+- 📫 Email: `sabbas.ahmad@airuniversity.edu.pk`
+- 💼 LinkedIn: [linkedin.com/in/sabbas-ahmad](https://linkedin.com/in/sabbas-ahmad)
+- 📷 Instagram: [@sabbas.ctrl](https://instagram.com/sabbas.ctrl)
 
 ---
 
-## 📬 Contact & Links
+### 📈 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sabbas-ahmad)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:sabbasahmad.dev@gmail.com)
-
----
-
-## 📌 Fork This Profile
-
-> Want a professional README like this?  
-> Just fork this repo, customize your sections, and publish it as your profile’s `README.md`.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabbas-ctrl&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbas-ctrl&layout=compact&theme=react" />
+</p>
 
 ---
 
-**Sabbas Ahmad** — *Focused. Clean. Forward-thinking.*
-  → Built for layered zones, post-recording analysis & admin dashboards  
-- 🛠 Developing reusable systems for business automation:
-  - **Food Order System (HomeCook)**
-  - **Local Business Data Scraper**
-  - **School Comparison Platform**
-- 🌱 Currently diving deeper into:
-  - Modular full-stack architectures  
-  - Real-world machine vision  
-  - Batch automation and scripting
+### ⚡ A Personal Note
+
+> “I'm not just coding for screens—I'm coding for **impact**. Every line I write aims to solve a problem, streamline a process, or empower people.”
+
+If you're a dev looking for inspiration or a collaborator seeking precision and professionalism — **you’re in the right place**.
 
 ---
 
-## 🛠️ Tech Stack
+### 🧩 Clone This Style?
 
-| Frontend       | Backend           | Database          | DevOps & Tools     | AI / Data              |
-|----------------|-------------------|-------------------|--------------------|------------------------|
-| React.js       | Node.js, .NET     | MySQL, MongoDB    | Git, GitHub Actions| YOLOv8, DeepSort       |
-| Tailwind CSS   | Express.js        | PostgreSQL        | Docker (basic)     | DeepFace, ReID         |
-| HTML, CSS, JS  | Django (basic)    | SQLite, Firebase  | Bash, Batch Scripts| OpenCV, Python (Pandas)|
+This README is designed as a **starter portfolio** for developers who want to:
+- Showcase their **work professionally**
+- Align their **GitHub profile with their personal portfolio**
+- Use it as a **client-facing resume**
 
----
-
-## 📂 Featured Projects
-
-### 🎯 [AI-Based CCTV Presence Tracker](https://github.com/sabbasahmad/cctv-presence-tracker)
-> **Tech:** YOLOv8, DeepSort, DeepFace, Python, SQLite, React  
-- Re-identifies individuals across cameras  
-- Zone-wise presence logging & intelligent video upload  
-- Includes admin dashboard, feedback loop & alerts  
+Just fork, personalize, and elevate your developer branding.
 
 ---
 
-### 🍱 [HomeCook - Food Ordering App](https://github.com/sabbasahmad/homecook-app)
-> **Tech:** ReactJS, Tailwind, Firebase  
-- Daily menu system with dynamic pricing & quantity scaling  
-- Location-based delivery validation  
-- Admin-friendly and built for micro-vendors  
-
----
-
-### 🏫 [School Comparison Platform](https://github.com/sabbasahmad/school-compare)
-> **Tech:** Node.js, EJS, MongoDB  
-- Structured, admin-controlled school listing system  
-- Includes sponsored slots, visibility control, and filters  
-- Built for clarity, monetization, and rapid listing  
-
----
-
-### 🕵️ [Local Business Scraper](https://github.com/sabbasahmad/local-biz-scraper)
-> **Tech:** Python, Selenium, BeautifulSoup  
-- Scrapes businesses from Google, Maps, Facebook, Instagram  
-- Handles deduplication, missing data & categorization  
-- Excel-export ready; ideal for marketers and lead gen  
-
----
-
-## 🎓 Academic Highlights
-
-- 🎓 6th Semester, BSCS  
-- 📌 Final Year Project: Multi-camera, AI-assisted presence logging system  
-- 🧠 Leading tech initiatives with clean system design & maintainable code  
-
----
-
-## 🏆 Certifications
-
-- ✅ Microsoft Certified: Azure Fundamentals  
-- ✅ Completed system architecture bootcamps  
-- 🥇 Recognized for building scalable, low-dependency software  
-
----
-
-## 📬 Contact & Links
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sabbas-ahmad)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:sabbasahmad.dev@gmail.com)
-
----
-
-## 📌 Fork This Profile
-
-> Want a professional README like this?  
-> Just fork this repo, customize your sections, and publish it as your profile’s `README.md`.
-
----
-
-**Sabbas Ahmad** — *Focused. Clean. Forward-thinking.*
